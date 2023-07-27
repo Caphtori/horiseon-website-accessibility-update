@@ -10,4 +10,4 @@ https://caphtori.github.io/horiseon-website-accessibility-update/#online-reputat
 
 ## Screenshot
 
-[](./assets/images/site-screenshot.png)
+[Full page screenshot.](./assets/images/site-screenshot.png)
